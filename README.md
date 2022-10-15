@@ -12,7 +12,10 @@ If you like this repo, you might also like `my-github-account`'s programming exe
 Names and logos for thoughtbot are trademarks of thoughtbot, inc. -->
 
 <!-- 
-ref
+TILの書き方参考
+[TIL/action_text.md at master · kazzkey/TIL](https://github.com/kazzkey/TIL/blob/master/Rails/Rails6/action_text.md)
+
+参考
 [GithubでTILというリポジトリが流行りつつあるのかもしれない - 生涯未熟](https://syossan.hateblo.jp/entry/2016/02/16/144305)
 [Githubのリポジトリ「TIL」を使って小さなアウトプットを習慣化する - Qiita](https://qiita.com/nemui_/items/239335b4ed0c3c797add#:~:text=TIL%E3%81%A8%E3%81%AF,%E3%81%A6%E3%81%84%E3%81%8F%E3%81%A8%E3%81%84%E3%81%86%E3%82%82%E3%81%AE%E3%81%A7%E3%81%99%E3%80%82)
 [Githubのリポジトリ「TIL」を作って今日学んだ知識をアウトプットしよう : ビジネスとIT活用に役立つ情報](https://www.asobou.co.jp/blog/web/github-til)
