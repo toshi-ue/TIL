@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "mushan.vscode-paste-image",
+    "yzhang.markdown-all-in-one",
+    "mdickin.markdown-shortcuts",
+    "bierner.markdown-preview-github-styles",
+    "bierner.github-markdown-preview",
+    "davidanson.vscode-markdownlint",
+    "fabiospampinato.vscode-highlight",
+    "ics.japanese-proofreading",
+    "sgryjp.japanese-word-handler"
+  ]
+}
