@@ -15,6 +15,7 @@ Column A | Column B |
  macOS | BigSur |
  Vue | 2.5.17 |
  vue-i18n| 8.27.2|
+ PHP |8.0.23|
  Laravel|6.20.26|
 
 ## vue-i18nをインストール
